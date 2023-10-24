@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Head Here
-subtitle: ''
-description: ''
+title: catcher in the 软件园
+subtitle: catcher in the software park
+description: 'personal blog'
 keywords:
 author: kinemato
 language: zh-CN
@@ -19,7 +19,7 @@ permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
-  trailing_html: true # Set to false to remove trailing '.html' from permalinks
+  trailing_html: false # Set to false to remove trailing '.html' from permalinks
 
 # Directory
 source_dir: source
