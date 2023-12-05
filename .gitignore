@@ -7,5 +7,3 @@ public/
 .deploy*/
 _multiconfig.yml
 package-lock.json
-/themes/aria/_config.yml
-/themes/aria/.tags
