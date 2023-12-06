@@ -1,0 +1,3 @@
+[submodule "themes/ztopic"]
+	path = themes/ztopic
+	url = git@github.com:kinemato/ztopic-extend.git
